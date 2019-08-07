@@ -1,0 +1,50 @@
+apple 20p
+20 sales oranges 50p
+orange 20p
+20 sales apples 50p
+apple 20p
+20 sales oranges 50p
+orange 20p
+20 sales apples 50p
+apple 20p
+subtract 10p oranges
+20 sales oranges 50p
+orange 20p
+20 sales apples 50p
+20 sales oranges 50p
+orange 20p
+20 sales apples 50p
+20 sales bananas 70p
+orange 20p
+add 5p apples
+20 sales apples 50p
+banana 25p
+20 sales oranges 50p
+orange 20p
+19 sales apples 50.99p
+20 sales oranges 30p
+orange 20p
+20 sales apples 50p
+20 sales oranges 30p
+orange 20p
+peach 70p
+add 5p apples
+20 sales mangoes 50p
+banana 25p
+20 sales mangoes 50p
+banana 25p
+20 sales mangoes 50p
+banana 25p
+20 sales mangoes 50p
+banana 25p
+15 sales bananas 10.77p
+20 sales apples 50p
+orange 10p
+15 sale bananas 10p
+20 sales apples 50p
+orange 10p
+15 sale bananas 10p
+sale 50p oranges
+15 sale mangoes 70p
+20 sales mangoes 90p
+30 sales pears 55p
